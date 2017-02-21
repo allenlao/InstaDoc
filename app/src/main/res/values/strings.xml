@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">InstaDoc</string>
+    <string name="text_hospitals">Hospitals</string>
+    <string name="text_home">Home</string>
+    <string name="text_profile">Profile</string>
+    <string name="chokingString">
+        Follow These Steps: \n
+        \n - Stand behind the person and slightly to one side. \n
+        \n - Support their chest with one hand \n
+        \n - Lean the person forward so that the object blocking will come out of their mouth \n
+        \n - Give up to five sharp blows between the person\'s shoulder blades with the heel of your hand \n
+        \n - Check if the blockage has cleared \n
+        \n - <b>If not,</b> give Heimlich \n
+        \n - Stand behind the person and place your arms around their waist and bend them forward \n
+        \n - Clench one fist and place it fight above their belly button \n
+        \n - Put the other hand on top of your fist and pull sharply inwards and upwards \n
+        \n - Repeat for 5 times \n
+        \n - If still blocked, make sure to call Emergency Services \n
+        \n - Keep repeating cycles of five back blows and 5 abdominal thrusts while waiting for Emergency Services \n
+    </string>
+    <string name="intoxicationString">
+        Follow These Steps: \n
+        \n - Make sure they are hydrated -- stop drinking alcohol immediately and drink water \n
+        \n - Don\'t move them from their current position \n
+        \n - Lay them on their side so they do not throw up in their mouth and choke \n
+        \n - Keep them warm with jackets and/or blankets \n
+        \n - Accompany them at all times even when they are asleep to monitor breathing \n
+        \n - If they are having trouble breathing or is unconscious call Emergency Services immediately \n
+        \n - Tip: Most universities do not penalize students for alcohol emergencies \n
+    </string>
+    <string name="cprString">
+        Follow These Steps: \n
+        \n - Call 911 and elect someone to retrieve an AED \n
+        \n - Lie the person on their back , tilt the head back slightly to lift the chin \n
+        \n - Check for breathing for no more than 10 seconds, if no breathing proceed with CPR \n
+        \n - Place your hands, one on top of th other in the middle of the chest \n
+        \n - Push down at least 2 inches deep and at a rate of 100 compressions per minute \n
+        \n - Deliver rescue breaths. With the person\'s head tilted slightly back and chin lifted, \n
+        \n - Pinch the nose shut and place your mouth over the person\'s mouth to make a complete seal \n
+        \n - Blow into the person\'s mouth to make the chest rise \n
+        \n - Continue with cycles of compressions and rescue breaths until person exhibits signs of life, an AED becomes available, or EMS arrives \n
+    </string>
+    <string name="seizureString">
+        Follow These Steps: \n
+        \n - Call Emergency Services \n
+        \n - Protect the person from injury \n
+        \n - If they are on the ground, try to position them to the side \n
+        \n - Wait for Emergency Services to arrive \n
+        \n - Seizures typically last 60 - 90 seconds \n
+        \n - DO NOT apply too much pressure to their body \n
+        \n - DO NOT force anything or try to hold them down \n
+        \n - DO NOT offer anything to eat or drink until they are fully aware \n
+    </string>
+</resources>
